@@ -1,0 +1,15 @@
+{
+  "name": "pwa js",
+  "short_name": "pwa js",
+  "start_url": ".",
+  "background_color": "#6777ef",
+  "description": "pwa",
+  "display": "browser",
+  "icons": [
+    {
+      "src": "assets/app/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
